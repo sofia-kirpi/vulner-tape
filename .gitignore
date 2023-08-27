@@ -1,0 +1,5 @@
+api/.node_modules
+web/.node_modules
+api/.DS_Store
+web/.DS_Store
+static

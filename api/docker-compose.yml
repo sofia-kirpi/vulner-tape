@@ -1,0 +1,10 @@
+version: '1'
+services:
+  vulner-tape-dev:
+    image: postgres:13
+    ports:
+      - 5437:5432
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: vulner_tape_dev

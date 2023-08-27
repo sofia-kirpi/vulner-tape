@@ -1,0 +1,10 @@
+{
+  "development": {
+    "port": 5437,
+    "username": "postgres",
+    "password": "postgres",
+    "database": "vulner_tape_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
