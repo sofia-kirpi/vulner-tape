@@ -52,8 +52,8 @@ Now your server is on port 3033.
 npm start
 ```
 
-8. Use it on port 3000[http://localhost:3000]
+8. Use it on port [3000](http://localhost:3000)
 
 ### Gratitude
 
-Theme is here[https://bootswatch.com/vapor/]
+Theme is [here](https://bootswatch.com/vapor/)
