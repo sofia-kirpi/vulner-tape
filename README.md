@@ -6,11 +6,7 @@ This is a simple application on React / Express / PostgreSQL. Check basic vulner
 
 You need to have Docker and Node.js.
 
-1. Clone this repository:
-
-```
-git clone git@github.com:sofia-kirpi/vulner-tape.git
-```
+1. Clone this repository.
 
 2. Go to the api folder and install needed packages. Repeat it in web folder.
 
