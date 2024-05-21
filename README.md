@@ -1,4 +1,4 @@
-# VulnerTape
+# VulnerTape [Completed]
 
 This is a simple application on React / Express / PostgreSQL. Check basic vulnerabilities on WordPress sites.
 
